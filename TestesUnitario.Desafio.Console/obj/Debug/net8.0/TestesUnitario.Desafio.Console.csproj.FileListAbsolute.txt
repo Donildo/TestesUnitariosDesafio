@@ -1,0 +1,15 @@
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\bin\Debug\net8.0\TestesUnitario.Desafio.Console.exe
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\bin\Debug\net8.0\TestesUnitario.Desafio.Console.deps.json
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\bin\Debug\net8.0\TestesUnitario.Desafio.Console.runtimeconfig.json
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\bin\Debug\net8.0\TestesUnitario.Desafio.Console.dll
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\bin\Debug\net8.0\TestesUnitario.Desafio.Console.pdb
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.AssemblyInfoInputs.cache
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.AssemblyInfo.cs
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.csproj.CoreCompileInputs.cache
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.sourcelink.json
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.dll
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\refint\TestesUnitario.Desafio.Console.dll
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.pdb
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\TestesUnitario.Desafio.Console.genruntimeconfig.cache
+C:\Users\Donildo Aleixo\UnitarioDesafio\TestesUnitario.Desafio.Console\obj\Debug\net8.0\ref\TestesUnitario.Desafio.Console.dll
